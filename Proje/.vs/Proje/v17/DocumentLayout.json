@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\YAS\u0130N YURTO\u011ELU\\Ders\\C\u002B\u002B Proje\\Proje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\YAS\u0130N YURTO\u011ELU\\Ders\\C\u002B\u002B Proje\\Proje\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\YAS\u0130N YURTO\u011ELU\\Ders\\C\u002B\u002B Proje\\Proje\\Musteri.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Musteri.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\YAS\u0130N YURTO\u011ELU\\Ders\\C\u002B\u002B Proje\\Proje\\Otel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Otel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\YAS\u0130N YURTO\u011ELU\\Ders\\C\u002B\u002B Proje\\Proje\\Oda.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Oda.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\YAS\u0130N YURTO\u011ELU\\Ders\\C\u002B\u002B Proje\\Proje\\Rezervasyon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Rezervasyon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\YAS\u0130N YURTO\u011ELU\\Ders\\C\u002B\u002B Proje\\Proje\\OtelBilgilendirme.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OtelBilgilendirme.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\YAS\u0130N YURTO\u011ELU\\Ders\\C\u002B\u002B Proje\\Proje\\Spa.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Spa.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\YAS\u0130N YURTO\u011ELU\\Ders\\C\u002B\u002B Proje\\Proje\\TekneTuru.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TekneTuru.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\YAS\u0130N YURTO\u011ELU\\Ders\\C\u002B\u002B Proje\\Proje\\Camasirhane.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Camasirhane.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\YAS\u0130N YURTO\u011ELU\\Ders\\C\u002B\u002B Proje\\Proje\\Etkinlikler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Etkinlikler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\YAS\u0130N YURTO\u011ELU\\Ders\\C\u002B\u002B Proje\\Proje\\Hastane.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hastane.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\YAS\u0130N YURTO\u011ELU\\Ders\\C\u002B\u002B Proje\\Proje\\OfisHizmetleri.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OfisHizmetleri.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\YAS\u0130N YURTO\u011ELU\\Ders\\C\u002B\u002B Proje\\Proje\\SpecialYemek.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SpecialYemek.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "D:\\YAS\u0130N YURTO\u011ELU\\Ders\\C\u002B\u002B Proje\\Proje\\Main.cpp",
+              "RelativeDocumentMoniker": "Main.cpp",
+              "ToolTip": "D:\\YAS\u0130N YURTO\u011ELU\\Ders\\C\u002B\u002B Proje\\Proje\\Main.cpp",
+              "RelativeToolTip": "Main.cpp",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-13T09:58:39.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Otel.h",
+              "DocumentMoniker": "D:\\YAS\u0130N YURTO\u011ELU\\Ders\\C\u002B\u002B Proje\\Proje\\Otel.h",
+              "RelativeDocumentMoniker": "Otel.h",
+              "ToolTip": "D:\\YAS\u0130N YURTO\u011ELU\\Ders\\C\u002B\u002B Proje\\Proje\\Otel.h",
+              "RelativeToolTip": "Otel.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-13T09:58:14.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Musteri.h",
+              "DocumentMoniker": "D:\\YAS\u0130N YURTO\u011ELU\\Ders\\C\u002B\u002B Proje\\Proje\\Musteri.h",
+              "RelativeDocumentMoniker": "Musteri.h",
+              "ToolTip": "D:\\YAS\u0130N YURTO\u011ELU\\Ders\\C\u002B\u002B Proje\\Proje\\Musteri.h",
+              "RelativeToolTip": "Musteri.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-13T09:58:14.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rezervasyon.h",
+              "DocumentMoniker": "D:\\YAS\u0130N YURTO\u011ELU\\Ders\\C\u002B\u002B Proje\\Proje\\Rezervasyon.h",
+              "RelativeDocumentMoniker": "Rezervasyon.h",
+              "ToolTip": "D:\\YAS\u0130N YURTO\u011ELU\\Ders\\C\u002B\u002B Proje\\Proje\\Rezervasyon.h",
+              "RelativeToolTip": "Rezervasyon.h",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAAAAwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-13T09:58:14.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Oda.h",
+              "DocumentMoniker": "D:\\YAS\u0130N YURTO\u011ELU\\Ders\\C\u002B\u002B Proje\\Proje\\Oda.h",
+              "RelativeDocumentMoniker": "Oda.h",
+              "ToolTip": "D:\\YAS\u0130N YURTO\u011ELU\\Ders\\C\u002B\u002B Proje\\Proje\\Oda.h",
+              "RelativeToolTip": "Oda.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-13T09:58:14.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Spa.h",
+              "DocumentMoniker": "D:\\YAS\u0130N YURTO\u011ELU\\Ders\\C\u002B\u002B Proje\\Proje\\Spa.h",
+              "RelativeDocumentMoniker": "Spa.h",
+              "ToolTip": "D:\\YAS\u0130N YURTO\u011ELU\\Ders\\C\u002B\u002B Proje\\Proje\\Spa.h",
+              "RelativeToolTip": "Spa.h",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-13T09:58:14.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TekneTuru.h",
+              "DocumentMoniker": "D:\\YAS\u0130N YURTO\u011ELU\\Ders\\C\u002B\u002B Proje\\Proje\\TekneTuru.h",
+              "RelativeDocumentMoniker": "TekneTuru.h",
+              "ToolTip": "D:\\YAS\u0130N YURTO\u011ELU\\Ders\\C\u002B\u002B Proje\\Proje\\TekneTuru.h",
+              "RelativeToolTip": "TekneTuru.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-13T09:58:14.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Camasirhane.h",
+              "DocumentMoniker": "D:\\YAS\u0130N YURTO\u011ELU\\Ders\\C\u002B\u002B Proje\\Proje\\Camasirhane.h",
+              "RelativeDocumentMoniker": "Camasirhane.h",
+              "ToolTip": "D:\\YAS\u0130N YURTO\u011ELU\\Ders\\C\u002B\u002B Proje\\Proje\\Camasirhane.h",
+              "RelativeToolTip": "Camasirhane.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-13T09:58:14.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Etkinlikler.h",
+              "DocumentMoniker": "D:\\YAS\u0130N YURTO\u011ELU\\Ders\\C\u002B\u002B Proje\\Proje\\Etkinlikler.h",
+              "RelativeDocumentMoniker": "Etkinlikler.h",
+              "ToolTip": "D:\\YAS\u0130N YURTO\u011ELU\\Ders\\C\u002B\u002B Proje\\Proje\\Etkinlikler.h",
+              "RelativeToolTip": "Etkinlikler.h",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-13T09:58:14.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Hastane.h",
+              "DocumentMoniker": "D:\\YAS\u0130N YURTO\u011ELU\\Ders\\C\u002B\u002B Proje\\Proje\\Hastane.h",
+              "RelativeDocumentMoniker": "Hastane.h",
+              "ToolTip": "D:\\YAS\u0130N YURTO\u011ELU\\Ders\\C\u002B\u002B Proje\\Proje\\Hastane.h",
+              "RelativeToolTip": "Hastane.h",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAFUAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-13T09:58:14.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OtelBilgilendirme.h",
+              "DocumentMoniker": "D:\\YAS\u0130N YURTO\u011ELU\\Ders\\C\u002B\u002B Proje\\Proje\\OtelBilgilendirme.h",
+              "RelativeDocumentMoniker": "OtelBilgilendirme.h",
+              "ToolTip": "D:\\YAS\u0130N YURTO\u011ELU\\Ders\\C\u002B\u002B Proje\\Proje\\OtelBilgilendirme.h",
+              "RelativeToolTip": "OtelBilgilendirme.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-13T09:58:14.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OfisHizmetleri.h",
+              "DocumentMoniker": "D:\\YAS\u0130N YURTO\u011ELU\\Ders\\C\u002B\u002B Proje\\Proje\\OfisHizmetleri.h",
+              "RelativeDocumentMoniker": "OfisHizmetleri.h",
+              "ToolTip": "D:\\YAS\u0130N YURTO\u011ELU\\Ders\\C\u002B\u002B Proje\\Proje\\OfisHizmetleri.h",
+              "RelativeToolTip": "OfisHizmetleri.h",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-13T09:58:14.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SpecialYemek.h",
+              "DocumentMoniker": "D:\\YAS\u0130N YURTO\u011ELU\\Ders\\C\u002B\u002B Proje\\Proje\\SpecialYemek.h",
+              "RelativeDocumentMoniker": "SpecialYemek.h",
+              "ToolTip": "D:\\YAS\u0130N YURTO\u011ELU\\Ders\\C\u002B\u002B Proje\\Proje\\SpecialYemek.h",
+              "RelativeToolTip": "SpecialYemek.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-13T09:58:14.682Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

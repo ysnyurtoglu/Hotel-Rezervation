@@ -1,0 +1,6 @@
+﻿  Main.cpp
+E:\C++ Project\Proje\Camasirhane.h(16,19): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  ('Main.cpp' kaynak dosyası derleniyor)
+  
+E:\C++ Project\Proje\Main.cpp(104,15): warning C4101: 'hataKodu': yerel değişken başvurusu kaldırıldı
+  Proje.vcxproj -> E:\C++ Project\Proje\x64\Debug\Proje.exe
